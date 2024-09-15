@@ -28,8 +28,8 @@ Make sure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/elastic-stack-docker.git
-cd elastic-stack-docker
+git clone https://github.com/Firas-Ruine/elk-stack
+cd elk-stack
 ```
 
 ### Step 2: Configure Environment Variables
